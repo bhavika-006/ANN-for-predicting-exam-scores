@@ -3,12 +3,7 @@
 ================================================
 
 Course: DA221, Introduction to AI  
-
-
-The Saphire, Members:
--------------------------
-- Samvid Pundir (230150021)
-- Bhavika Pandya (230150006)
+Bhavika Pandya (230150006)
 
 Description:
 ------------
